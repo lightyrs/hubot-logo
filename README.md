@@ -21,6 +21,6 @@ Then add **hubot-logo** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> hubot logo stripe.com
+hubot>> https://logo.clearbit.com/stripe.com
 ```
