@@ -13,6 +13,7 @@
 module.exports = (robot) ->
   robot.respond /logo (.*)/, (msg) ->
     domain = msg.match[1]
+    console.log(domain)
 
     domain.replace(/http(s)?:\/\//, "")
 
