@@ -1,7 +1,7 @@
 {
   "name": "hubot-logo",
   "description": "Fetch company logo images via the clearbit logo api.",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "author": "Harris Novick <harrisdavidnovick@gmail.com>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts, logo, logos, images, clearbit",
