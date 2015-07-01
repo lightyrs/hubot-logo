@@ -14,6 +14,8 @@ module.exports = (robot) ->
   robot.respond /logo (.*)/, (msg) ->
     domain = msg.match[1]
 
+    domain.replace(/http(s)?:\/\//, "")
+
     if domain.match(/^(?!:\/\/)([a-zA-Z0-9]+\.)?[a-zA-Z0-9][a-zA-Z0-9-]+\.[a-zA-Z]{2,6}?$/i)?
       msg.send("https://logo.clearbit.com/#{domain}")
     else
