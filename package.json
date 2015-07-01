@@ -1,16 +1,16 @@
 {
   "name": "hubot-logo",
   "description": "Fetch company logo images via the clearbit logo api.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Harris Novick <harrisdavidnovick@gmail.com>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts, logo, logos, images, clearbit",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-logo.git"
+    "url": "git://github.com/lightyrs/hubot-logo.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-logo/issues"
+    "url": "https://github.com/lightyrs/hubot-logo/issues"
   },
   "dependencies": {},
   "peerDependencies": {
