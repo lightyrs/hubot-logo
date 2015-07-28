@@ -6,6 +6,8 @@ See [`src/hubot-logo.coffee`](src/hubot-logo.coffee) for full documentation.
 
 ## Installation
 
+[![NPM](https://nodei.co/npm/hubot-logo.png?compact=true)](https://nodei.co/npm/hubot-logo/)
+
 In hubot project repo, run:
 
 `npm install hubot-logo --save`
