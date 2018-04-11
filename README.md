@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/hubot-logo.svg)](https://badge.fury.io/js/hubot-logo)
+
 # hubot-logo
 
 Fetch company logo images via the clearbit logo api.
